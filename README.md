@@ -12,6 +12,8 @@
 
 刚才复制粘贴的时候，把目录搞没了，之前的目录似乎也没有做记录，那就这么着吧，想到哪是哪吧！
 
+[点我](https://github.com/i0Ek3/work-and-life-in-huge-tech-commpany/blob/main/Context.md)跳转阅读内容。
+
 ## 后记
 
 **你对自己生活的影响，往往比宏观经济对你的影响大得多。**
